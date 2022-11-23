@@ -1,0 +1,44 @@
+.navbar ul li a{
+    text-decoration: none;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.navbar ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 100px;
+}
+.navbar ul{
+    float: right;
+}
+
+.il{
+    float: left;
+    margin: 10px;
+    stroke: 10px;
+    
+}
+body{
+    font-family: arial;
+}
+.raka{
+    font-weight: bold;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+}
+.ilham{
+    color:red;
+    font-style: italic;
+}
+div{
+    text-align: right;
+    font-size: 10px;
+}
+.muh{
+    float: right;
+}
